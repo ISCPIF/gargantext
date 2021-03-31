@@ -30,7 +30,7 @@ umalqurra==0.2                 # arabic calendars (?? why use ??)
 networkx==1.11
 pandas==0.21.0
 six==1.10.0
-lxml==3.5.0
+lxml==4.6.3
 requests-futures==0.9.7
 bs4==0.0.1
 requests==2.10.0
